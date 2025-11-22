@@ -276,3 +276,32 @@ body {
 .volumeee {
   margin-left: 120px;
 }
+
+@media (max-width: 900px) {
+  .sidebar {
+    /* display: none; */
+    width: 200px;
+    margin-right: 10px;
+  }
+  .library {
+    /* display: none; */
+    width: 200px;
+    /* margin-right: 10px !important; */
+  }
+  .card {
+    width: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sidebar {
+    display: none;
+  }
+  .library {
+    display: none;
+  }
+
+  .card {
+    width: 80px;
+  }
+}
