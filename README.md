@@ -27,25 +27,6 @@ This project recreates the layout and UI of Spotify’s desktop web app — incl
 
 ---
 
-## 📁 Project Structure
-
-📦 Spotify-Clone
-├── index.html
-├── Style.css
-├── assets/
-│ ├── logo.png
-│ ├── card1img.jpeg
-│ ├── card2img.jpeg
-│ ├── backward_icon.png
-│ ├── forward_icon.png
-│ ├── library_icon.png
-│ ├── player_icon1.png
-│ ├── player_icon2.png
-│ ├── ...other icons/images
-└── README.md
-
----
-
 ## 📸 Preview
 
 ![Spotify Clone Preview](assets/screenshot/spotify_screens_combined.png)
@@ -100,7 +81,7 @@ Sidebar shrinks
 
 1. Clone the repository
 
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/ChinmayGV/Spotify_page.git
 
 2. Go inside the folder
 
