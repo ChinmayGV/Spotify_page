@@ -19,7 +19,7 @@ body {
   flex: 1; /*which means give all the ramaining space to me after giving the all the div required space */
   border-radius: 1rem;
   overflow: auto; /*by setting auto it only show scoll when necessary , Whereas the scroll always show */
-  height: 964px;
+
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   margin-top: 10px;
@@ -275,6 +275,4 @@ body {
 }
 .volumeee {
   margin-left: 120px;
-}
-@media (max-width: 1330) {
 }
